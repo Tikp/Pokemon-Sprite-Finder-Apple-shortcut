@@ -1,2 +1,4 @@
-# Pokemon-Sprite-Finder-Apple-shortcut
-Apple Shortcut that uses @pokeAPI to find pokemon sprites
+# Pokemon Sprite Finder Shortcut:
+Credits: @PokeAPI
+
+(Im gonna ask them before I post this)
